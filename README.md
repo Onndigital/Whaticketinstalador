@@ -8,7 +8,7 @@ sudo apt -y update && apt -y upgrade
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
 ```bash
-sudo apt install -y git && git clone https://github.com/palmeirarocha/saasinstalador.git saasinstalador && sudo chmod -R 777 saasinstalador  && cd saasinstalador  && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/Onndigital/onnzapinstalador.git saasinstalador && sudo chmod -R 777 saasinstalador  && cd saasinstalador  && sudo ./install_primaria
 ```
 
 ## Requisitos
