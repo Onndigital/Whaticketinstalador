@@ -1,5 +1,5 @@
-# saasinstalador
-Instalador Whaticket SaaS
+# instalador
+Instalador Automático
 
 ```bash
 sudo apt -y update && apt -y upgrade
